@@ -1,0 +1,8 @@
+{
+  "host": "35.86.87.68",
+  "port": 3306,
+  "user": "pushserver",
+  "password": "Qwer1234!",
+  "database_name": "website_v2",
+  "secret_key": "8a3d4b8a3f13bc8c013f13bc8c9c0000"
+}
